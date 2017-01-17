@@ -30,8 +30,7 @@ class Palindrome
       System.out.println("Palindrome");
     }
     else {
-      //System.out.println("Not a palindrome");
-        break;
-} 	
+      System.out.println("Not a palindrome");
+    } 	
   }
 }
