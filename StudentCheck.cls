@@ -34,10 +34,11 @@ global class StudentCheck{
             }
                     if(student.size()==0){
              System.debug('the given id is not there' );
-             system.debug('error---ajay');
+             
                     }
         else {
         	system.debug('error');
+            system.debug('error---ajay');
             
         }
         
