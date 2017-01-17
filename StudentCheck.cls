@@ -1,4 +1,4 @@
-global class StudentCheck1{
+global class StudentCheck{
     //request class
     global class Request{
     	webservice integer studentId; 
