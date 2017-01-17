@@ -36,6 +36,8 @@ global class StudentCheck{
              System.debug('the given id is not there' );
         else {
         	system.debug('error');
+            system.debug('error---sai');
+            
         }
         
     
