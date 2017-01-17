@@ -18,7 +18,7 @@ class Palindrome
       if (original.equals(reverse))
          System.out.println("Entered string is a palindrome.");
       else
-        //error
+         //error
  
    }
 }	
