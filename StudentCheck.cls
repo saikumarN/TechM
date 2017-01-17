@@ -31,8 +31,8 @@ global class StudentCheck{
         	}
                     system.debug('++++'  + res);
             }
-            //        if(student.size()==0)
-            // System.debug('the given id is not there' );
+            if(student.size()==0)
+            System.debug('the given id is not there' );
         else {
         	  // send the error.
         }
